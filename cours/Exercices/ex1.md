@@ -55,5 +55,5 @@ git commit -m "ex1"
 git push
 ```
 
-À tout moment si vous avez des questions, vous pouvez m'écrire sur Discord et on pourra se parler vendredi soir.
+À tout moment si vous avez des questions, vous pouvez m'écrire sur la page de devoirs et on pourra se parler vendredi soir.
 
